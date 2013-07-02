@@ -1,0 +1,17 @@
+Desarrollado por:
+
+Jhon Fredy Puentes Núñez.
+
+on twitter  : @John__Fredy
+
+E-mail: Jhonpuentes93@hotmail.com
+        jfredypuentes@gmail.com
+	jfpuentesn@correo.udistrital.edu.co
+	
+GitHub : github.com/JhonProg
+
+
+
+Ejecute el index.html para ver la pagina web en funcionamiento.
+
+Este software fue desarrollado bajo licencia de software libre.
