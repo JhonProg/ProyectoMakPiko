@@ -13,4 +13,4 @@ Desarrollo web.
 Jhon Fredy Puentes jhonpuentes@hotmail.com, [@John__Fredy](https://twitter.com/John__Fredy) on Twitter**
 
 ##Lisence
-** Copyright (C) 2013-today 
+(C) Copyright 2013-today 
